@@ -67,3 +67,4 @@ Im not a professional programmer, im more better in analogue circuits, but for m
 ![Test](https://github.com/InsaneEngineer/OLED_Image_Converter/assets/64024820/84eb499b-77fb-4024-99fa-f7edcc01f06a)
 ## Image Decoder:
 Image decoder is a test program to decode compressed images to ASCII art in Qt debug console.
+![image](https://github.com/InsaneEngineer/OLED_Image_Converter/assets/64024820/f7c2a081-3323-46a5-85a2-933aa9424d30)
