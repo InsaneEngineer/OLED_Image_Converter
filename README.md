@@ -1,6 +1,7 @@
 # OLED_Image_Converter
 OLED Image Converter for OLED display 128x64 based on SSD1306 controller.
 Has two modes: standart mode: 1 pixel per bit; and compress mode with RLE encoding.
+This program written on C++ with Qt 5 framework.
 ## Here some examples:
 ### Standard decoding for STM32:
 ```
